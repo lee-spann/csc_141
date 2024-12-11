@@ -1,0 +1,3 @@
+Cause its very fun
+& C:/Users/leesp/AppData/Local/Programs/Python/Python312/python.exe c:/Users/leesp/Desktop/csc_141/10_files_and_exceptions/10_06_addition.py
+& C:/Users/leesp/AppData/Local/Programs/Python/Python312/python.exe c:/Users/leesp/Desktop/csc_141/10_files_and_exceptions/10_06_addition.py
